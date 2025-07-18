@@ -5,5 +5,9 @@ public class HelloWorld {
 	public static void main(String[] args) {
     System.out.println("Hello World, My first git devops practice");
 	}
+	//b1 code changes
+	public void main() {
+	    System.out.println("from m1");
+		}
 
 }
